@@ -6,7 +6,7 @@
 - 📫 How to reach me: Send a DM at [@kartikeychauhan](https://www.linkedin.com/in/kartikeychauhan) 
 
 <p align=center>    
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skhiearth&layout=compact&theme=gruvbox">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey-chauhan&layout=compact&theme=gruvbox">
 </p>
 
 <!--
