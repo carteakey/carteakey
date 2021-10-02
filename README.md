@@ -5,10 +5,6 @@
 - 👯 I’m looking to collaborate on just about anything :)
 - 📫 How to reach me: Send a DM at [@kartikeychauhan](https://www.linkedin.com/in/kartikeychauhan) 
 
-<p>   
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey-chauhan&layout=compact&theme=gruvbox">
-</p>
-
 <!--
 **kartikey-chauhan/kartikey-chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
