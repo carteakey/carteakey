@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a PL/SQL developer
 - 🌱 I’m currently exploring Data Science & AI.
 - 👯 I’m looking to collaborate on just about anything :)
-- 📫 Feel free to [contact me](mailto: kartikeychauhan27@gmail.com) if you want to connect.
+- 📫 Feel free to [contact me](mailto:kartikeychauhan27@gmail.com) if you want to connect.
 
 <!--
 **kartikey-chauhan/kartikey-chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
