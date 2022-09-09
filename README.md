@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋, I'm Kartikey Chauhan</h3>
-<h5 align="center">Software Developer and Data Science Enthusiast</h5>
+<h2 align="center">Hi 👋, I'm Kartikey Chauhan</h2>
+<h3 align="center">Software Developer and Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carteakey&label=Profile%20views&color=0e75b6&style=flat" alt="carteakey" /> </p>
 
@@ -13,9 +13,8 @@
 
 - 📫 How to reach me **kartikeychauhan27@gmail.com**
 
-<h5 align="left">Connect with me:</h5>
+<h3 align="left">Connect with me</h3>
 <p align="left">
-  
   <a href="https://twitter.com/karteakey" target="blank"
     ><img
       align="center"
@@ -24,7 +23,6 @@
       height="30"
       width="40"
   /></a>
-  
   <a href="https://linkedin.com/in/kartikeychauhan" target="blank"
     ><img
       align="center"
@@ -33,7 +31,6 @@
       height="30"
       width="40"
   /></a>
-  
   <a href="https://kaggle.com/kartikeychauhan" target="blank"
     ><img
       align="center"
@@ -45,7 +42,7 @@
   
 </p>
 
-<h5 align="left">Languages and Tools:</h5>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
    
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -138,7 +135,6 @@
     />
   </a>
  
-
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
