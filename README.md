@@ -9,6 +9,8 @@
 
 - 👯 I’m looking to collaborate on **on just about anything :)**
 
+- 📝 I regularly write articles on [carteakey.github.io](https://carteakey.github.io) (Ok, maybe not that regularly)
+
 - 📫 How to reach me **kartikeychauhan27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
