@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on just about anything :)
 - 📫 Feel free to [contact me](mailto:kartikeychauhan27@gmail.com) if you want to connect.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carteakey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kartikey-chauhan/kartikey-chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
