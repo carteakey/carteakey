@@ -1,12 +1,13 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=carteakey&style=flat-square)
+
 - 🔭 I’m currently working as a Software developer.
 - 🌱 I’m currently exploring Data Science & AI.
 - 👯 I’m looking to collaborate on just about anything :)
 - 📫 Feel free to [contact me](mailto:kartikeychauhan27@gmail.com) if you want to connect.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carteakey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carteakey&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kartikey-chauhan/kartikey-chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
