@@ -192,7 +192,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=carteakey&show_icons=true&theme=dark&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=carteakey&show_icons=true&theme=onedark&locale=en&layout=compact"
     alt="carteakey"
   />
 </p>
