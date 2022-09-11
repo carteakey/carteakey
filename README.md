@@ -19,7 +19,7 @@
    <a href="mailto:kartikeychauhan27@gmail.com" target="blank"
     <img
       align="center"
-      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/messenger.svg"
+      src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg"
       alt="karteakey"
       height="30"
       width="40"
