@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on **[carteakey.github.io](https://carteakey.github.io)** (Ok, maybe not that regularly)
 
-- 📫 How to reach me **kartikeychauhan27@gmail.com**
+- 📫 Reach me at **kartikeychauhan27@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
