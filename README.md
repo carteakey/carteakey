@@ -20,8 +20,8 @@
       align="center"
       src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg"
       alt="karteakey"
-      height="30"
-      width="40"
+      height="29"
+      width="35"
   /></a>
   <a href="https://twitter.com/karteakey" target="blank"
     ><img
