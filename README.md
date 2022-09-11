@@ -7,14 +7,24 @@
 
 - 🌱 I’m currently exploring **Data Science & AI**
 
-- 👯 I’m looking to collaborate on **on just about anything :)**
+<!-- - 👯 I’m looking to collaborate on **on just about anything :)** -->
 
 - 📝 I regularly write articles on **[carteakey.github.io](https://carteakey.github.io)** (Ok, maybe not that regularly)
 
-- 📫 Reach me at **kartikeychauhan27@gmail.com**
+<!-- - 📫 Reach me at **kartikeychauhan27@gmail.com** -->
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
+  
+   <a href="mailto:kartikeychauhan27@gmail.com" target="blank"
+    ><img
+      align="center"
+      src="https://gist.githubusercontent.com/philaturner/8629b559d6ba62e7fda632c421c91fc0/raw/79666ca7a9258023ac642bfde32e314f381dca97/email-icon.svg"
+      alt="mail"
+      height="30"
+      width="40"
+  /></a>
+  
   <a href="https://twitter.com/karteakey" target="blank"
     ><img
       align="center"
