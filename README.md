@@ -9,7 +9,7 @@
 
 <!-- - 👯 I’m looking to collaborate on **on just about anything :)** -->
 
-- 📝 I regularly write articles on **[carteakey.github.io](https://carteakey.github.io)** (Ok, maybe not that regularly)
+- 📝 I regularly write articles on **[carteakey.dev](https://carteakey.dev)** (Ok, maybe not that regularly)
 
 <!-- - 📫 Reach me at **kartikeychauhan27@gmail.com** -->
 
