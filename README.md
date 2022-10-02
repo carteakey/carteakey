@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on **[carteakey.dev](https://carteakey.dev)** (Ok, maybe not that regularly)
 
-- 📫 Reach me on my **[email]** (mailto:kartikeychauhan27@gmail.com)
+- 📫 Reach me on my **[email](mailto:kartikeychauhan27@gmail.com)** 
 
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
