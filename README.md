@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carteakey&label=Profile%20views&color=0e75b6&style=flat" alt="carteakey" /> </p>
 
-- 🔭 I’m currently working as a **Software Developer**
+- 🔭 I’m currently working as an **ETL Analyst**
 
 - 🌱 I’m currently exploring **Data Science & AI**
 
