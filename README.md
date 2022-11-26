@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carteakey&label=Profile%20views&color=0e75b6&style=flat" alt="carteakey" /> </p>
 
-- 🔭 I’m currently working as an **ETL Analyst**
+- 🔭 I’m currently working as an **ETL Analyst**.
 
-- 🌱 I’m currently exploring **Data Science & AI**
+- 🌱 I’m currently exploring **Data Science & AI**.
 
-- 📝 I regularly write articles on **[carteakey.dev](https://carteakey.dev)** (Ok, maybe not that regularly)
+- 📝 I regularly write articles on **[carteakey.dev](https://carteakey.dev)** (Ok, maybe not that regularly).
 
-- 📫 Reach me on my **[email](mailto:kartikeychauhan27@gmail.com)** 
+- 📫 Reach me on my **[email](mailto:kartikeychauhan27@gmail.com)** .
 
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
