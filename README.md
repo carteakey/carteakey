@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Kartikey Chauhan</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carteakey&label=Profile%20views&color=0e75b6&style=flat" alt="carteakey" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carteakey&label=Visitors&color=0e75b6&style=flat" alt="carteakey" /> </p>
 
 - 🔭 I’m currently working as an **ETL Analyst**.
 
