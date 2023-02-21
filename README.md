@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently exploring **Data Science & AI**.
 
-- 📝 I regularly write articles on **[carteakey.dev](https://carteakey.dev)** (Ok, maybe not that regularly).
+- 📝 I regularly write tech articles on **[carteakey.dev](https://carteakey.dev)** (Ok, maybe not that regularly).
 
 - 📫 Reach me on my **[email](mailto:kartikeychauhan27@gmail.com)**.
 
