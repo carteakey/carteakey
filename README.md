@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carteakey&label=Visitors&color=0e75b6&style=flat" alt="carteakey" /> </p>
 
-- 🔭 I’m currently working as a **Data Engineer**.
+- 🔭 I’m currently working as a **Data Analyst**.
 
 - 🌱 I’m currently exploring **Data Science & AI**.
 
