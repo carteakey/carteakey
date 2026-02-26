@@ -1,126 +1,40 @@
-<h2 align="left">Hi 👋, I'm Kartikey Chauhan</h2>
+# Hi, I'm Kartikey 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carteakey&label=Visitors&color=0e75b6&style=flat" alt="carteakey" /> </p>
+<img src="https://komarev.com/ghpvc/?username=carteakey&label=Visitors&color=0e75b6&style=flat" alt="carteakey" />
 
-- 🔭 I’m currently working as a **Data Analyst**.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-- 🌱 I’m currently exploring **Data Science & AI**.
+> Data analyst by day, building tools at the intersection of AI, data, and the open web.
 
-- 📝 I regularly write tech articles on **[carteakey.dev](https://carteakey.dev)** (Ok, maybe not that regularly).
+---
 
-- 📫 Reach me on my **[email](mailto:kartikeychauhan27@gmail.com)**.
+## Projects
 
-<h3 align="left">Languages & Tools</h3>
-<p align="left">
-   
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-      alt="scikit_learn"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      width="40"
-      height="40"
-    />
-  </a>
+- 🔍 **[aidar](https://github.com/carteakey/aidar)** — Track AI-era stylistic drift across the web. Scans domains, scores writing patterns, shows trends. Live at **[aidar.lol](https://aidar.lol)**
+- 🐳 **[server-compose](https://github.com/carteakey/server-compose)** — Docker Compose collection for self-hosted apps. 179 ⭐
+- 🤖 **[claude-databricks-eda](https://github.com/carteakey/claude-databricks-eda)** — Using Claude Code for EDA on Databricks; secure SQL client with agent-friendly output
+- 📊 **[quaLLM](https://github.com/carteakey/quaLLM)** — LLM evaluation and comparison toolkit
+- 🗂️ **[data-pipeline-compose](https://github.com/carteakey/data-pipeline-compose)** — Docker Compose for Hadoop, Hive, PySpark, Airflow, Jupyter
+- 🧠 **[LAKR](https://github.com/carteakey/LAKR)** — LLM-Augmented Knowledge-Graph Recommendation System
 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-</p>
+---
 
+## What I'm doing
 
+- Building **[aidar.lol](https://aidar.lol)** — studying how AI is changing the way the web writes
+- Working with data and LLMs on Databricks in my day job
+- Writing about it *occasionally* at **[carteakey.dev](https://carteakey.dev)** *(and by occasionally, I mean whenever I feel like it, which isn't that often)*
+
+---
+
+## Connect
+
+[![Blog](https://img.shields.io/badge/-carteakey.dev-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://carteakey.dev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carteakey.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/carteakey)
